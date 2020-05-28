@@ -5,9 +5,9 @@ A new Flutter project.
 ## Getting Started
  In This project you can register a user and then login to application by registered user.
 
- User an add users into local database and see a list of users.
+ User can add users into local database and see a list of users.
   
- user can touch on national code in list item and see all user detailes.
+ user can touch on national code in list item and see all the user's detailes.
  
  ![](images/Screenshot1.png)
  
